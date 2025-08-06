@@ -1,0 +1,6 @@
+PORT=5000
+FB_APP_ID=your_facebook_app_id
+FB_APP_SECRET=your_facebook_app_secret
+FB_PAGE_ID=your_facebook_page_id
+FB_PAGE_TOKEN=your_facebook_page_token
+OPENAI_API_KEY=your_openai_api_key
